@@ -12,7 +12,7 @@ $ git config --global color.ui true
 $ git config --global --list
 
 
-
+$git log------------- mirar cambios
 $ git init-------------- Iniciar proyecto
 $ git status------------- revisa modificaciones
 $ git add -A-------------- agrega todos los archivos modificados
