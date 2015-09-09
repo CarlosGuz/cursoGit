@@ -14,3 +14,6 @@ $ git config --global --list
 
 
 $ git init-------------- Iniciar proyecto
+$ git status------------- revisa modificaciones
+$ git add -A-------------- agrega todos los archivos modificados
+$ git commit -m "Mensaje"------------- Agrega un cambio

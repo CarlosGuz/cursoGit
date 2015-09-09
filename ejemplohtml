@@ -5,6 +5,7 @@
 	<title>Ejemplo GIT</title>
 	</head>
 	<body>
-		pagina en blanco
+		<h1>Instituto Tecnologico de Culiacán</h1>
+		<img src="logo.png">
 	</body>
 	</html>
