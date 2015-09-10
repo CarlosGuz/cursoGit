@@ -20,3 +20,7 @@ $ git commit -m "Mensaje"------------- Agrega un cambio
 $ git log>logs.txt--------------------- guardar en un blog la info de los commits
 $ git checkout "numero de commit"  ------------------------ moverse entre los archivos
 $ git checkout master----------------- irse ala ultima version
+
+$ git remote add origin https://github.com/CarlosGuz/cursoGit.git-----ligar un repositorio local a un repositorio en github
+$ git push -u origin master----------------- se utiliza para terminar de subir al repositorio
+
