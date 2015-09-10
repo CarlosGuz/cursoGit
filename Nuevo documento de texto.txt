@@ -17,3 +17,6 @@ $ git init-------------- Iniciar proyecto
 $ git status------------- revisa modificaciones
 $ git add -A-------------- agrega todos los archivos modificados
 $ git commit -m "Mensaje"------------- Agrega un cambio
+$ git log>logs.txt--------------------- guardar en un blog la info de los commits
+$ git checkout "numero de commit"  ------------------------ moverse entre los archivos
+$ git checkout master----------------- irse ala ultima version

@@ -1,0 +1,29 @@
+commit 2238963b6f1d9340cd6f2a5a404b1c852a7e9bb2
+Author: carlos <carlaceve003@gmail.com>
+Date:   Wed Sep 9 16:44:49 2015 -0600
+
+    Fecha
+
+commit 21239612b0a31fbee16ca25c70a642f6a15ca4b2
+Author: carlos <carlaceve003@gmail.com>
+Date:   Wed Sep 9 16:41:29 2015 -0600
+
+    Pie de pagina
+
+commit 19ee2476c3669cf19b9f3ca1b8aed765138fba34
+Author: carlos <carlaceve003@gmail.com>
+Date:   Wed Sep 9 16:34:43 2015 -0600
+
+    Formulario agregado
+
+commit 850df5767e90810fccb87476cbe5d5bd19c169c1
+Author: carlos <carlaceve003@gmail.com>
+Date:   Wed Sep 9 16:26:52 2015 -0600
+
+    Imagen tec
+
+commit ca356542fc1e02a48c0ddbd226abc269da8def1a
+Author: carlos <carlaceve003@gmail.com>
+Date:   Tue Sep 8 16:40:41 2015 -0600
+
+    proyecto en blanco
