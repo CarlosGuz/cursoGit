@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Ejemplo GIT</title>
 	</head>
-	<body bgcolor="#ffe7ba">
+	<body bgcolor="7AAA81">
 		<h1>Instituto Tecnologico de Culiacán</h1>
 		<img src="logo.png"><br><br>
 		Usuario: <input type="text" placeholder="Nombre"><br>
