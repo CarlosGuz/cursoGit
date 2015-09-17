@@ -23,4 +23,6 @@ $ git checkout master----------------- irse ala ultima version
 
 $ git remote add origin https://github.com/CarlosGuz/cursoGit.git-----ligar un repositorio local a un repositorio en github
 $ git push -u origin master----------------- se utiliza para terminar de subir al repositorio
-
+$ git fetch--------------------- descarga cambios
+$ git merge origin/master---------- guarda los cambios
+$ git clone url------------------- clonar los archivos a tu computadora
