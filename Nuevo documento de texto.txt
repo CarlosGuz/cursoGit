@@ -26,3 +26,9 @@ $ git push -u origin master----------------- se utiliza para terminar de subir a
 $ git fetch--------------------- descarga cambios
 $ git merge origin/master---------- guarda los cambios
 $ git clone url------------------- clonar los archivos a tu computadora
+
+
+Ramas en GIT
+$ git branch "nombre"-------------------------- crea la rama
+$ git checkout "nombre"--------------------- cambia la rama
+$ git merge "nombre de la rama"---------------- juntar las dos ramas
