@@ -58,3 +58,7 @@ git merge "Rama-1"
 .
 .
 git merge "Rama-n"
+
+que pasa si al hacer merge hay conflictos
+borrar los heads y volver a hacer commit
+
