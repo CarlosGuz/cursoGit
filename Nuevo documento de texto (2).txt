@@ -1,0 +1,60 @@
+repaso de comandos de git
+como hacer un commit local
+git add -A
+git commit -m "mensaje"
+
+commit al servidor
+git add -A
+git commit -m "mensaje"
+git push origin master
+
+que hacer si no deja actualizar el repositorio
+-hubo cambios
+	antes de hacer commit local
+	git fetch para descargar los cambios
+	git merge origin/master guardar los cambios
+	subimos de nuevo git push origin master
+
+como actualizamos reporistoro local sin haber hecho cambios
+git pull origin master
+
+como clonar un reporsitorio
+crear repositorio antes en github inicializado
+git clone url
+
+como ligar un repositorio local a uno de github
+antes tienes que ser creado en github sin inicializar
+git add remote origin url
+
+como revisar que ha habido cambios locales
+git status
+
+como mostra los commits que hemos realizado
+git log
+git log> logs.txt  exportarlo para poer copiarlo
+
+como movernos a un commit especifico
+git checkout ID_DE_COMMIT
+
+como regresar al ultimo commit
+git checkout master
+
+como crear una rama
+git breach "nombre"
+git branch---(listar todas las ramas existentes)
+
+como cambiar de rama
+git checkout "nombre"
+
+subir cambios a una rama especifica
+git add -A
+git commit -m "mensaje"
+git push origin "Rama"
+
+como mever todos los cambios de la rama a master
+git checkout master
+git merge "Rama-1"
+.
+.
+.
+git merge "Rama-n"
